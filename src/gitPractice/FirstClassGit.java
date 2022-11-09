@@ -12,4 +12,8 @@ public class FirstClassGit {
 		System.out.println("This is from local repo");
 	}
 
+		public void testTwo() {
+		System.out.println("This is from Remote repo");
+	}
+
 }
