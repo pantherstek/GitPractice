@@ -7,5 +7,9 @@ public class FirstClassGit {
 		System.out.println("this is test");
 
 	}
+	
+	public void test() {
+		System.out.println("This is from local repo");
+	}
 
 }
